@@ -1,6 +1,6 @@
 {
-  "name": "@wxx/egg-typeorm",
-  "version": "1.0.0",
+  "name": "egg-typeorm-js",
+  "version": "1.0.1",
   "description": "",
   "eggPlugin": {
     "name": "typeorm"
@@ -36,23 +36,17 @@
     "pkgfiles": "egg-bin pkgfiles",
     "autod": "autod"
   },
-  "files": [
-    "app.js",
-    "agent.js",
-    "config",
-    "app"
-  ],
   "ci": {
     "version": "8, 10"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-typeorm.git"
+    "url": "git+https://github.com/lvwxx/egg-typeorm.git"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-typeorm#readme",
+  "homepage": "https://github.com/lvwxx/egg-typeorm#readme",
   "author": "",
   "license": "MIT"
 }
