@@ -141,7 +141,7 @@ exports.typeorm = {
 多个连接配置时，需要制定name和entities的路径，默认在{app_root}/app/entites下
 
 ## Example
-Please open an issue [here](https://github.com/lvwxx/egg-typeorm/examples).
+Please open an issue [here](https://github.com/lvwxx/egg-typeorm/tree/master/examples).
 <!-- example here -->
 
 ## Questions & Suggestions
