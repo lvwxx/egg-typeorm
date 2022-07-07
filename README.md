@@ -102,7 +102,7 @@ exports.typeorm = {
 };
 ```
 
-单个数据库配置时，entity的文件在{app_root}/app/entites下
+单个数据库配置时，entity的文件在{app_root}/app/entites下
 
 2、多个连接配置
 
